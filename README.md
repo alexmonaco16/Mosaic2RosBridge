@@ -9,5 +9,6 @@ CAM messages are then propagated according to the network simulator and its sett
 
 # Recompilation
 In the root of the project: $ mvn clean install
+
 Then, place the .jar file under /mosaic_23.1/scenarios/scenario_name/application/
 
